@@ -1,2 +1,3 @@
-from SONU import loginkey
-loginkey()
+from TXA
+chmod 777 SONU
+./SONU
